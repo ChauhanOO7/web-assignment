@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Web Development Assignment
 
@@ -8,3 +9,6 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
+=======
+# web-assignment
+>>>>>>> 295c4a8aae797a4c31213663530f0134dc34e12a
